@@ -25,7 +25,8 @@
   },
   {
     "package": "polyqtlR",
-    "url": "https://github.com/cran/polyqtlR""
+    "url": "https://github.com/cran/polyqtlR"
+  },
   {
     "package": "polyRAD",
     "url": "https://github.com/lvclark/polyRAD"
