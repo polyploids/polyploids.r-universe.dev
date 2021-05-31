@@ -36,6 +36,10 @@
     "url": "https://github.com/guilherme-pereira/QTLpoly"
   },
   {
+    "package": "SPA3G",
+    "url": "https://github.com/cran/SPA3G"
+  },
+  {
     "package": "updog",
     "url": "https://github.com/dcgerard/updog"
   }
