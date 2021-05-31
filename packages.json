@@ -1,0 +1,41 @@
+[
+  {
+    "package": "diaQTL",
+    "url": "https://github.com/jendelman/diaQTL"
+  },
+  {
+    "package": "fitPoly",
+    "url": "https://github.com/cran/fitPoly"
+  },
+  {
+    "package": "GWASpoly",
+    "url": "https://github.com/jendelman/GWASpoly"
+  },
+  {
+    "package": "mappoly",
+    "url": "https://github.com/mmollina/MAPpoly"
+  },
+  {
+    "package": "polyBreedR",
+    "url": "https://github.com/jendelman/polyBreedR"
+  },
+  {
+    "package": "polymapR",
+    "url": "https://github.com/cran/polymapR"
+  },
+  {
+    "package": "polyqtlR",
+    "url": "https://github.com/cran/polyqtlR""
+  {
+    "package": "polyRAD",
+    "url": "https://github.com/lvclark/polyRAD"
+  },
+  {
+    "package": "qtlpoly",
+    "url": "https://github.com/guilherme-pereira/QTLpoly"
+  },
+  {
+    "package": "updog",
+    "url": "https://github.com/dcgerard/updog"
+  }
+]
