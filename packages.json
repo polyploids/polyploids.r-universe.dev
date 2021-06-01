@@ -32,6 +32,10 @@
     "url": "https://github.com/lvclark/polyRAD"
   },
   {
+    "package": "qtlpoly",
+    "url": "https://github.com/guilherme-pereira/QTLpoly"
+  },
+  {
     "package": "sommer",
     "url": "https://github.com/cran/sommer",
     "branch": "3.6"
