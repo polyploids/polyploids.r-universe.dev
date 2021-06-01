@@ -16,6 +16,10 @@
     "url": "https://github.com/jendelman/polyBreedR"
   },
   {
+    "package": "mappoly",
+    "url": "https://github.com/mmollina/MAPpoly"
+  },
+  {
     "package": "polymapR",
     "url": "https://github.com/cran/polymapR"
   },
@@ -39,5 +43,9 @@
   {
     "package": "updog",
     "url": "https://github.com/dcgerard/updog"
+  },
+  {
+    "package": "varComp",
+    "url": "https://github.com/cran/varComp"
   }
 ]
