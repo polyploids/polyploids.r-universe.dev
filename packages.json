@@ -31,6 +31,7 @@
     "package": "sommer",
     "url": "https://github.com/cran/sommer",
     "branch": "3.6"
+  },
   {
     "package": "SPA3G",
     "url": "https://github.com/cran/SPA3G"
