@@ -12,10 +12,6 @@
     "url": "https://github.com/jendelman/GWASpoly"
   },
   {
-    "package": "mappoly",
-    "url": "https://github.com/mmollina/MAPpoly"
-  },
-  {
     "package": "polyBreedR",
     "url": "https://github.com/jendelman/polyBreedR"
   },
@@ -32,9 +28,9 @@
     "url": "https://github.com/lvclark/polyRAD"
   },
   {
-    "package": "qtlpoly",
-    "url": "https://github.com/guilherme-pereira/QTLpoly"
-  },
+    "package": "sommer",
+    "url": "https://github.com/cran/sommer",
+    "branch": "3.6"
   {
     "package": "SPA3G",
     "url": "https://github.com/cran/SPA3G"
@@ -42,9 +38,5 @@
   {
     "package": "updog",
     "url": "https://github.com/dcgerard/updog"
-  },
-  {
-    "package": "varComp",
-    "url": "https://github.com/cran/varComp"
   }
 ]
