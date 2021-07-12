@@ -51,5 +51,9 @@
   {
     "package": "varComp",
     "url": "https://github.com/cran/varComp"
+  },
+  {
+    "package": "PolyHaplotyper",
+    "url": "https://github.com/cran/PolyHaplotyper"
   }
 ]
