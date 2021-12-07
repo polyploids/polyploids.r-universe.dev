@@ -1,59 +1,48 @@
 [
-  {
-    "package": "diaQTL",
-    "url": "https://github.com/jendelman/diaQTL"
-  },
-  {
-    "package": "fitPoly",
-    "url": "https://github.com/cran/fitPoly"
-  },
-  {
-    "package": "GWASpoly",
-    "url": "https://github.com/jendelman/GWASpoly"
-  },
-  {
-    "package": "polyBreedR",
-    "url": "https://github.com/jendelman/polyBreedR"
-  },
-  {
-    "package": "mappoly",
-    "url": "https://github.com/mmollina/MAPpoly"
-  },
-  {
-    "package": "polymapR",
-    "url": "https://github.com/cran/polymapR"
-  },
-  {
-    "package": "polyqtlR",
-    "url": "https://github.com/cran/polyqtlR"
-  },
-  {
-    "package": "polyRAD",
-    "url": "https://github.com/lvclark/polyRAD"
-  },
-  {
-    "package": "qtlpoly",
-    "url": "https://github.com/guilherme-pereira/QTLpoly"
-  },
-  {
-    "package": "sommer",
-    "url": "https://github.com/cran/sommer",
-    "branch": "3.6"
-  },
-  {
-    "package": "SPA3G",
-    "url": "https://github.com/cran/SPA3G"
-  },
-  {
-    "package": "updog",
-    "url": "https://github.com/dcgerard/updog"
-  },
-  {
-    "package": "varComp",
-    "url": "https://github.com/cran/varComp"
-  },
-  {
-    "package": "PolyHaplotyper",
-    "url": "https://github.com/cran/PolyHaplotyper"
-  }
+    {
+        "package": "diaQTL",
+        "url": "https://github.com/jendelman/diaQTL"
+    },
+    {
+        "package": "fitPoly",
+        "url": "https://github.com/cran/fitPoly"
+    },
+    {
+        "package": "GWASpoly",
+        "url": "https://github.com/jendelman/GWASpoly"
+    },
+    {
+        "package": "polyBreedR",
+        "url": "https://github.com/jendelman/polyBreedR"
+    },
+    {
+        "package": "MAPpoly",
+        "url": "https://github.com/mmollina/MAPpoly",
+        "branch": "release"
+    },
+    {
+        "package": "polymapR",
+        "url": "https://github.com/cran/polymapR"
+    },
+    {
+        "package": "polyqtlR",
+        "url": "https://github.com/cran/polyqtlR"
+    },
+    {
+        "package": "polyRAD",
+        "url": "https://github.com/lvclark/polyRAD"
+    },
+    {
+        "package": "QTLpoly",
+        "url": "https://github.com/gabrielgesteira/QTLpoly",
+        "branch": "release"
+    },
+    {
+        "package": "updog",
+        "url": "https://github.com/dcgerard/updog"
+    },
+    {
+        "package": "PolyHaplotyper",
+        "url": "https://github.com/cran/PolyHaplotyper"
+    }
 ]
