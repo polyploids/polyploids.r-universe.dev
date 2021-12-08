@@ -17,8 +17,7 @@
     },
     {
         "package": "MAPpoly",
-        "url": "https://github.com/mmollina/MAPpoly",
-        "branch": "release"
+        "url": "https://github.com/mmollina/MAPpoly"
     },
     {
         "package": "polymapR",
@@ -34,8 +33,7 @@
     },
     {
         "package": "QTLpoly",
-        "url": "https://github.com/gabrielgesteira/QTLpoly",
-        "branch": "release"
+        "url": "https://github.com/gabrielgesteira/QTLpoly"
     },
     {
         "package": "updog",
