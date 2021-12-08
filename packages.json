@@ -16,7 +16,7 @@
         "url": "https://github.com/jendelman/polyBreedR"
     },
     {
-        "package": "MAPpoly",
+        "package": "mappoly",
         "url": "https://github.com/mmollina/MAPpoly"
     },
     {
@@ -32,7 +32,7 @@
         "url": "https://github.com/lvclark/polyRAD"
     },
     {
-        "package": "QTLpoly",
+        "package": "qtlpoly",
         "url": "https://github.com/gabrielgesteira/QTLpoly"
     },
     {
