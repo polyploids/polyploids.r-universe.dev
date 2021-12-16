@@ -42,5 +42,9 @@
     {
         "package": "PolyHaplotyper",
         "url": "https://github.com/cran/PolyHaplotyper"
-    }
+    },
+    {
+        "package": "viewpoly",
+        "url": "https://github.com/mmollina/viewpoly"
+    },
 ]
