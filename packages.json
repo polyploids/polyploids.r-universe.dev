@@ -47,4 +47,8 @@
         "package": "viewpoly",
         "url": "https://github.com/mmollina/viewpoly"
     }
+    {
+        "package": "polyAinv",
+        "url": "https://github.com/mghamilton/polyAinv"
+    }
 ]
